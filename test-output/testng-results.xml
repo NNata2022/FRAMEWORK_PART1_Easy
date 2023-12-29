@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-24T19:49:23 CST" name="Default suite" finished-at="2023-12-24T19:49:54 CST" duration-ms="30415">
+    <groups>
+    </groups>
+    <test started-at="2023-12-24T19:49:23 CST" name="Default test" finished-at="2023-12-24T19:49:54 CST" duration-ms="30415">
+      <class name="com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:23 CST" name="openBrowser" finished-at="2023-12-24T19:49:30 CST" duration-ms="7105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="navigateToWebsiteConfirm()[pri:1, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:30 CST" name="navigateToWebsiteConfirm" finished-at="2023-12-24T19:49:30 CST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWebsiteConfirm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:30 CST" name="closeBrowser" finished-at="2023-12-24T19:49:30 CST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:30 CST" name="openBrowser" finished-at="2023-12-24T19:49:36 CST" duration-ms="5583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="newPageValidatio()[pri:2, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:36 CST" name="newPageValidatio" finished-at="2023-12-24T19:49:36 CST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newPageValidatio -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:36 CST" name="closeBrowser" finished-at="2023-12-24T19:49:36 CST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:36 CST" name="openBrowser" finished-at="2023-12-24T19:49:42 CST" duration-ms="5622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="navigateNewPageAndVerifyElements()[pri:3, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:42 CST" name="navigateNewPageAndVerifyElements" finished-at="2023-12-24T19:49:53 CST" duration-ms="11290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateNewPageAndVerifyElements -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test@7133da86]" started-at="2023-12-24T19:49:53 CST" name="closeBrowser" finished-at="2023-12-24T19:49:54 CST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.tutorialsninja.qa.TestCase.NavigateToWebsiteConfirm_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
